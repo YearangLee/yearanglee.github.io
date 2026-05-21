@@ -1,22 +1,32 @@
 main:
 
-  - title: Continual Learning for Abdominal Multi-Organ and Tumor Segmentation
-    authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)
-    conference_short: MICCAI
-    conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
-    pdf: https://arxiv.org/pdf/2306.00988.pdf
-    code: https://github.com/MrGiovanni/ContinualLearning
-    bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: ./assets/img/teaser_example_2.png
-    notes: Early Accept
-
-  - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
-    authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
+  - title: TF-CADE: Foreground-Concentrated Text-Video Alignment for Zero-Shot Temporal Action Detection
+    authors: <strong>Yearang Lee</strong>, Ho-Joong Kim, and Seong-Whan Lee* (*Corresponding authors)
     conference_short: CVPR
-    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
-    pdf: https://arxiv.org/pdf/2002.10211.pdf
-    code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-    page: https://class-il.mpi-inf.mpg.de/mnemonics/
-    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
-    notes: Oral Presentation
-    image: ./assets/img/teaser_example.png
+    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2026.
+    pdf: https://arxiv.pdf
+    code: https://github.com/
+    # bibtex: https://bib.
+    image: ./assets/img/TF-CADE.png
+    notes: Highlight
+
+  - title: "DiGIT: Multi-Dilated Gated Encoder and Central-Adjacent Region Integrated Decoder for Temporal Action Detection Transformer"
+    authors: Ho-Joong Kim, <strong>Yearang Lee</strong>, Jung-Ho Hong, and Seong-Whan Lee* (*Corresponding authors)
+    conference_short: CVPR
+    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2025.
+    pdf: https://arxiv.org/abs/2505.05711
+    code: https://github.com/Dotori-HJ/DiGIT
+    # page: https://class-il.mpi-inf.mpg.de/mnemonics/
+    # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
+    # notes: Oral Presentation
+    image: ./assets/img/DiGIT.png
+
+  - title: Text-Infused Attention and Foreground-Aware Modeling for Zero-Shot Temporal Action Detection
+    authors: <strong>Yearang Lee</strong>, Ho-Joong Kim, and Seong-Whan Lee* (*Corresponding authors)
+    conference_short: NeurIPS
+    conference: Conference on Neural Information Processing Systems <strong>(NeurIPS)</strong>, 2024.
+    pdf: https://arxiv.pdf
+    code: https://github.com/YearangLee/Ti-FAD
+    # bibtex: https://bib.
+    image: ./assets/img/Ti-FAD.png
+    # notes: Highlight
