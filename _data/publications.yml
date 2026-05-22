@@ -1,6 +1,6 @@
 main:
 
-  - title: TF-CADE: Foreground-Concentrated Text-Video Alignment for Zero-Shot Temporal Action Detection
+  - title: "TF-CADE: Foreground-Concentrated Text-Video Alignment for Zero-Shot Temporal Action Detection"
     authors: <strong>Yearang Lee</strong>, Ho-Joong Kim, and Seong-Whan Lee* (*Corresponding authors)
     conference_short: CVPR
     conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2026.
