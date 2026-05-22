@@ -7,14 +7,14 @@
   height:2.4rem;
   width:2.4rem;
   background-color:transparent;
-  color:#043361!important;
+  color:#c96a12!important;
   border-radius:100%;
   text-align:center;
   font-size:1.15rem;
   line-height:2.5rem;
   margin-right:1rem}
 
-@media (prefers-color-scheme: dark) { .social-icons a {color: #3eb7f0 !important; }}
+@media (prefers-color-scheme: dark) { .social-icons a {color: #ffb347 !important; }}
 
 .social-icons a:last-child{margin-right:0}.social-icons a:hover{background-color:white;
     color:black;
@@ -216,8 +216,8 @@ papertitle {
 
       .image.avatar img {
         border-radius: 100%;
-        width: 45%;
-        padding: 20px;
+        width: 39%;
+        padding: 16px;
         // border: 1px solid #ddd;
         // padding: 3px;
         // box-shadow: 0 -1px 5px 1px rgba(200, 200, 200, 0.3);
@@ -225,23 +225,23 @@ papertitle {
 
     #header .image.avatar {
       margin: 0 0 1em 0;
-      width: 8.00em;
+      width: 7.2em;
     }
 
 h3, h4, h5, h6 {
   font-weight: 600;
-  color:#043361;
+  color:#c96a12;
   margin:0 0 20px;
 }
 
 h1 {
   font-weight: 500;
-  color:#043361;
+  color:#c96a12;
   margin:0 0 20px;
 }
 
 h2 {
-  color:#043361;
+  color:#c96a12;
   font-weight: 500;
   margin:2px 0px 15px;
   font-size: 157%;
@@ -249,11 +249,11 @@ h2 {
 
 @media (prefers-color-scheme: dark) {
   h1, h3, h4, h5, h6 {
-    color:rgb(62, 183, 240);
+    color:#ffb347;
   }
 
   h2 {
-    color:rgb(62, 183, 240);
+    color:#ffb347;
   }
 }
 
@@ -270,17 +270,17 @@ h1 {
 }
 
 a {
-  color:#39c;
+  color:#d97a1c;
   text-decoration:none;
 }
 
 a:hover {
-  color:#069;
+  color:#9c4f00;
 }
 
 @media (prefers-color-scheme: dark) {
   a {
-    color:rgb(62, 183, 240);
+    color:#ffb347;
   }
 }
 
@@ -293,6 +293,30 @@ a small {
 
 a:hover small {
   color:#777;
+}
+
+.section-kicker {
+  margin: 2.25rem 0 0.35rem;
+  font-size: 0.72rem;
+  font-weight: 700;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: #c96a12;
+}
+
+.service-panel {
+  margin-top: 2.6rem;
+  padding: 1.2rem 1.25rem 0.55rem;
+  border: 1px solid rgba(201, 106, 18, 0.22);
+  border-radius: 14px;
+  background: linear-gradient(180deg, rgba(255, 179, 71, 0.11), rgba(255, 255, 255, 0));
+}
+
+@media (prefers-color-scheme: dark) {
+  .service-panel {
+    border-color: rgba(255, 179, 71, 0.28);
+    background: linear-gradient(180deg, rgba(255, 179, 71, 0.10), rgba(32, 33, 43, 0.22));
+  }
 }
 
 .wrapper {
