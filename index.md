@@ -20,9 +20,8 @@ Currently, my research explores multimodal reasoning and adaptation in MLLMs.
 
 - **[Feb. 2026]** My paper has been accepted by CVPR 2026! 🎉
 - **[Feb. 2025]** Our paper has been accepted by CVPR 2025! 🎉
-- **[Sept. 2024]** Started Ph.D. at Korea University.
 - **[Sept. 2024]** My first paper has been accepted by NeurIPS 2024! 🎉
-- **[Mar. 2022]** Started M.S. at Korea University.
+- **[Mar. 2024]** I started my Ph.D. at Korea University.
 
 {% include_relative _includes/publications.md %}
 
