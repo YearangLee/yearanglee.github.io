@@ -54,6 +54,8 @@ blockquote { background: var(--global-bg-color); border-left: 2px solid var(--gl
 
 .publications ol.bibliography li .author a { border-bottom: 1px var(--global-theme-color); }
 
+.publications ol.bibliography li .author strong { color: #d97706; }
+
 .publications ol.bibliography li .author a:hover { border-bottom-style: solid; text-decoration: none; }
 
 .publications ol.bibliography li .author > em { border-bottom: 1px solid; font-style: normal; }
