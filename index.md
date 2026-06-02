@@ -4,12 +4,12 @@ layout: homepage
 
 ## About Me
 
-I am a third-year Ph.D. candidate in the department of Artificial Intelligence (AI) at Korea University, advised by [Prof. Seong-Whan Lee](http://pr.korea.ac.kr/). 
+I am a third-year Ph.D. student in the department of Artificial Intelligence (AI) at Korea University, advised by [Prof. Seong-Whan Lee](http://pr.korea.ac.kr/). 
 Prior to joining Korea University, I worked as an AI researcher at the research department of the [POSTECH Institute of AI](https://piai.postech.ac.kr). 
 
 My research interests include computer vision, video understanding, and multimodal learning.
 I have worked on video understanding tasks such as temporal action detection and video-language learning, with a particular focus on bridging the gap between visual and textual representations through multimodal alignment. 
-More recently, my research has expanded toward multimodal alignment, reasoning, and adaptation in multimodal large language models.
+More recently, my research has expanded toward **multimodal alignment, reasoning, and adaptation** in multimodal large language models.
 
 ## Research Interests
 
