@@ -4,7 +4,7 @@ main:
     authors: <strong>Yearang Lee</strong>, Ho-Joong Kim, and Seong-Whan Lee* (*Corresponding authors)
     conference_short: CVPR
     conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2026.
-    pdf: https://arxiv.pdf
+    pdf: https://openaccess.thecvf.com/content/CVPR2026/papers/Lee_TF-CADE_Foreground-Concentrated_Text-Video_Alignment_for_Zero-Shot_Temporal_Action_Detection_CVPR_2026_paper.pdf
     code: https://github.com/
     # bibtex: https://bib.
     image: ./assets/img/TF-CADE.png
